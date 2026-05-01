@@ -22,5 +22,5 @@ bar and reads token usage through the installed `tokscale` CLI.
 
 ## Thanks
 
-Thanks to the `tokscale` CLI developers for creating and maintaining the token
-usage tooling that this menubar app builds on.
+Special thanks to [@junhoyeo](https://github.com/junhoyeo) for creating and
+maintaining `tokscale`, the CLI that this menubar app builds on.
